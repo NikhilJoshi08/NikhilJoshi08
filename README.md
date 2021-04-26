@@ -1,6 +1,6 @@
 -  Hi, I’m Nikhil Joshi
 -  I’m interested in learning new things and this is my Github profile.
--  I'm currently persuating Software Engineering and learning Python.
+-  I'm currently pursuing Software Engineering and learning Python.
 -  You can reach me through mail which is josinikhil67@gmail.com
 
 <!---
